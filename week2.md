@@ -4,7 +4,7 @@
 ![Project](Image/Setting-IP-12309984.gns3project)
 
 # Screenshot of the network
-
+![](Image/Setting-IP-12309984-Network.png)
 
 # Screenshot of the console of each of the four hosts showing the IP addresses from ip address show
 
