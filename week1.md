@@ -9,3 +9,4 @@
 
 
 # Screenshot of the console showing the IP address
+![](Image/GNS-Intro-12309984-ipaddrss.png)
