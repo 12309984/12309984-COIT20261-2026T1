@@ -1,7 +1,7 @@
 
 # Exported Project
 
-![Project](Image/Setting-IP-12309984.gns3project)
+![Project-Setting-IP-12309984](Image/Setting-IP-12309984.gns3project)
 
 # Screenshot of the network
 ![](Image/Setting-IP-12309984-Network.png)
