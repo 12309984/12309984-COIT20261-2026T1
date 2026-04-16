@@ -7,3 +7,16 @@
 
 # TASK-2
 
+# EXEPORTED PROJECT
+![]()
+
+
+# -> There are 4 hosts, 2 switches and 2 routers, creating 3 subnets
+
+![]()
+
+![]()
+
+![]()
+
+![]()
