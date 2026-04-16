@@ -8,7 +8,7 @@
 # TASK-2
 
 # EXEPORTED PROJECT
-![]()
+![Default-Gateway-12309984](Image/Default-Gateway-12309984.gns3)
 
 
 # -> There are 4 hosts, 2 switches and 2 routers, creating 3 subnets
