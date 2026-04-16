@@ -10,13 +10,39 @@
 # EXEPORTED PROJECT
 ![Default-Gateway-12309984](Image/Default-Gateway-12309984.gns3)
 
+#	Screenshot of the network
+![](Image/Default-Gateway-12308507-network.png)
 
-# -> There are 4 hosts, 2 switches and 2 routers, creating 3 subnets
+# -> Record of the IP addresses and routing tables of each host and router
 
-![]()
+# Host1 Routintable 
 
-![]()
+![](Image/host1routingtable.png)
 
-![]()
+# Host2 Routintable
 
-![]()
+![](Image/host2routingtable.png)
+
+
+# Host3 Routintable
+
+![](Image/host3routingtable.png)
+
+# Host4 Routintable
+![](Image/host4routingtable.png)
+
+# Router1 Routintable
+
+![](Image/router1routingtable.png)
+
+# Router2 Routintable
+
+![](Image/router2routingtable.png)
+
+
+# -> Screenshot of a successful ping from a host one one subnet to a host on the other subnet
+
+![](Image/host1ping.png)
+
+
+
